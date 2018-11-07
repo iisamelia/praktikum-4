@@ -10,9 +10,7 @@
 4. Cetak `max`
 
 **program flowchart**
-
 ![flowchart](https://github.com/iisamelia/praktikum-4/blob/master/flowchart1.png)
-
 **kode lengkap program**
 ```C++
 #include<iostream>
@@ -58,7 +56,6 @@ int main ()
 7. deskripsikan variabel diskon yang mau kita taruh diprogram dengan intruksi (if-then-else)
 8. jika selesai intruksikan kembali (bayar=total-diskon)
 9. Cetak semua hasil perintah (jumlah_barang,total harga belanja,diskon yang diberikan,harga yang harus dibayar)
-
 
 **program flowchart**
 
