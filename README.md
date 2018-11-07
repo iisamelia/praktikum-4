@@ -52,9 +52,9 @@ int main ()
 4. Membaca atau cetak variabel **A** untuk barang ke-
 5. Membaca atau cetak variabel **jumlah beli** dan **harga** untuk mengintrusikan input harga dan barang
 6. Input program sesuai perintah
-	```harga_barang = harga*jumlah_beli;
+	   harga_barang = harga*jumlah_beli;
 	   Total = total + harga_barang;
-	   total_beli += jumlah_beli;```
+	   total_beli += jumlah_beli;
 7. deskripsikan variabel diskon yang mau kita taruh diprogram dengan intruksi (if-then-else)
 8. jika selesai intruksikan kembali (bayar=total-diskon)
 9. Cetak semua hasil perintah (jumlah_barang,total harga belanja,diskon yang diberikan,harga yang harus dibayar)
